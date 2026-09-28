@@ -48,7 +48,7 @@ Adafruit_GFX, Adafruit_SSD1306, Wire
 ### Setup Steps
 1. **Clone the repository:**
    ```bash
-   git clone (https://github.com/SzekelyK05/ESP32 Paint.git)
+   git clone (https://github.com/SzekelyK05/ESP32-Paint.git)
 
 (Or download the repository as a ZIP file and extract it).
 2. Open the sketch: Open the src/main.ino file in the Arduino IDE.
