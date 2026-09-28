@@ -1,4 +1,5 @@
 # ESP32 Paint
+Esp32-based drawing app using 0.96 inch Oled display, joystick module and rotary encoder.
 
 ## Bill of Materials
 The project needs an esp32 (ESP32-WROOM-32),  ky-040 rotary encoder, 0.96 inch oled display, ky-023 joystick module, breadboard and jumper wires.
